@@ -1,7 +1,10 @@
 # Parallax-Scrolling-Website
- Website in Parallaxhttps://saamuelsam.github.io/Parallax-Scrolling-Website/
+
+ Website in Parallax👇
  
  https://saamuelsam.github.io/Parallax-Scrolling-Website/
+ 
+
 
 ![Captura de tela 2022-11-25 023507](https://user-images.githubusercontent.com/100050645/203908319-63c6d129-7a57-4f4b-aacf-fc51deb3606e.jpg)
 
